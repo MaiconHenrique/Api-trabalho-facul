@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsultarProduto", "ApiConsultarProduto\ApiConsultarProduto.csproj", "{EA50D22C-9AC3-4BA0-89BC-28F1FC58B958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA50D22C-9AC3-4BA0-89BC-28F1FC58B958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA50D22C-9AC3-4BA0-89BC-28F1FC58B958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA50D22C-9AC3-4BA0-89BC-28F1FC58B958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA50D22C-9AC3-4BA0-89BC-28F1FC58B958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360630CB-134C-4F11-B6CF-9B20C7E28817}
+	EndGlobalSection
+EndGlobal

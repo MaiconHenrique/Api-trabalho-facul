@@ -1,0 +1,28 @@
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.deps.json
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.runtimeconfig.json
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.runtimeconfig.dev.json
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.dll
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.csprojAssemblyReference.cache
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.csproj.CoreCompileInputs.cache
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.RazorAssemblyInfo.cache
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.RazorAssemblyInfo.cs
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.AssemblyInfoInputs.cache
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.AssemblyInfo.cs
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.RazorTargetAssemblyInfo.cache
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.pdb
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.dll
+C:\Users\Cast\Desktop\Maikera .NET\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.pdb
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.deps.json
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.runtimeconfig.json
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.runtimeconfig.dev.json
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.dll
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\bin\Debug\netcoreapp2.1\ApiConsultarProduto.pdb
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.csprojAssemblyReference.cache
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.csproj.CoreCompileInputs.cache
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.RazorAssemblyInfo.cache
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.RazorAssemblyInfo.cs
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.AssemblyInfoInputs.cache
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.AssemblyInfo.cs
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.RazorTargetAssemblyInfo.cache
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.dll
+C:\Users\maiqu\Desktop\AluguelCarros\Facul\ApiConsultarProduto\ApiConsultarProduto\obj\Debug\netcoreapp2.1\ApiConsultarProduto.pdb
